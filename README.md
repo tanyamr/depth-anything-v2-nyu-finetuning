@@ -139,7 +139,7 @@ encoder_learning_rate: 0.0000005
 head_learning_rate: 0.000005
 ```
 
-## upd
+## Скрипты
  
 ```bash
 python train.py --config configs/strategies/train_vitb_lora_mps.yaml
