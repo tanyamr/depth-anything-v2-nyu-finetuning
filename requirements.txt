@@ -1,0 +1,12 @@
+numpy
+pillow
+scipy
+h5py
+pyyaml
+tensorboard
+matplotlib
+setuptools
+tqdm
+opencv-python
+torch
+torchvision

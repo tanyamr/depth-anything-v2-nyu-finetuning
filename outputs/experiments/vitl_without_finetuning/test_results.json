@@ -1,0 +1,11 @@
+{
+  "checkpoint": "checkpoints/pretrained/depth_anything_v2_metric_hypersim_vitl.pth",
+  "checkpoint_epoch": null,
+  "test_metrics": {
+    "absrel": 0.338049198036751,
+    "rmse": 1.1512265186948873,
+    "delta1": 0.09539157503582153,
+    "delta2": 0.5769571303501981,
+    "delta3": 0.9526735384439685
+  }
+}

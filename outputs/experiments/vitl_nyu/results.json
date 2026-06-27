@@ -1,0 +1,14 @@
+{
+  "best_absrel": 0.062426908459100455,
+  "best_rmse": 0.29916248801681733,
+  "best_epoch_absrel": 17,
+  "best_epoch_rmse": 9,
+  "final_val_metrics": {
+    "absrel": 0.06402347485224406,
+    "rmse": 0.30028809275892043,
+    "delta1": 0.9673518488804499,
+    "delta2": 0.99480469028155,
+    "delta3": 0.9981824606657028
+  },
+  "total_training_time": 781.0310604572296
+}

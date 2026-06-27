@@ -1,0 +1,42 @@
+#environment and cache
+.venv/
+__pycache__/
+.matplotlib_cache/
+
+# Dataset files
+*.mat
+data/raw/
+data/custom/
+data/processed/
+
+
+# Model weights and checkpoints
+checkpoints/
+outputs/experiments/*/checkpoints/
+outputs/report/strategy_plots/
+*.pt
+*.pth
+*.ckpt
+
+# External repository Depth Anything V2
+external/
+
+# Logs and training artifacts
+outputs/*.png
+outputs/*.jpg
+outputs/*.npy
+outputs/predictions/
+outputs/report/
+outputs/experiments/*/logs/tensorboard/
+*.log
+outputs/experiments/*/logs/metrics.csv
+
+*.npy
+*.npz
+*.parquet
+*.ipynb
+report_.ipynb
+*.png
+README_test.md
+.DS_Store
+\

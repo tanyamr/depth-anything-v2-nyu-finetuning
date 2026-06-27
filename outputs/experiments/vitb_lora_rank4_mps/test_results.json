@@ -1,0 +1,11 @@
+{
+  "checkpoint": "outputs/experiments/vitb_lora_rank4_mps/checkpoints/best_absrel.pth",
+  "checkpoint_epoch": 15,
+  "test_metrics": {
+    "absrel": 0.07973008964185145,
+    "rmse": 0.3117345281687799,
+    "delta1": 0.9441517462435457,
+    "delta2": 0.9896226461810345,
+    "delta3": 0.9968300539603347
+  }
+}

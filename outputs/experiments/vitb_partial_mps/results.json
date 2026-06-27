@@ -1,0 +1,33 @@
+{
+  "best_absrel": 0.07227914966642857,
+  "best_rmse": 0.29276638141729766,
+  "best_epoch_absrel": 15,
+  "best_epoch_rmse": 13,
+  "final_val_metrics": {
+    "absrel": 0.07238529353506035,
+    "rmse": 0.2979077354021784,
+    "delta1": 0.953594956960943,
+    "delta2": 0.992639152954022,
+    "delta3": 0.9988233260810375
+  },
+  "total_training_time": 4715.1060910224915,
+  "finetuning": {
+    "strategy": "partial",
+    "parameter_counts": {
+      "total": 97470785,
+      "trainable": 25069121,
+      "frozen": 72401664
+    },
+    "head_prefixes": [
+      "pretrained.head.",
+      "depth_head."
+    ],
+    "encoder_prefixes": [
+      "pretrained."
+    ],
+    "unfrozen_encoder_prefixes": [
+      "pretrained.blocks.10.",
+      "pretrained.blocks.11."
+    ]
+  }
+}

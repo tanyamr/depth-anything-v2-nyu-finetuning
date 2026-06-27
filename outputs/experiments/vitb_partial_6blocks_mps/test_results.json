@@ -1,0 +1,11 @@
+{
+  "checkpoint": "outputs/experiments/vitb_partial_6blocks_mps/checkpoints/best_absrel.pth",
+  "checkpoint_epoch": 8,
+  "test_metrics": {
+    "absrel": 0.0790751928918038,
+    "rmse": 0.3114227854688348,
+    "delta1": 0.9468015908580465,
+    "delta2": 0.9912949269989512,
+    "delta3": 0.997160583017618
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "checkpoint": "outputs/experiments/vitb_nyu/checkpoints/best_absrel.pth",
+  "checkpoint_epoch": 8,
+  "test_metrics": {
+    "absrel": 0.07617808535336629,
+    "rmse": 0.3648151206396699,
+    "delta1": 0.9502277620059928,
+    "delta2": 0.9900909608991695,
+    "delta3": 0.9970954046216617
+  }
+}
